@@ -1,6 +1,4 @@
-{
-  "next_page": "kjkjmk n k",
-  "result": [
+ [
     {
       "workflow_display_name": "AtomicWFDeleteInstance",
       "workflow_unique_name": "definition_workflow_01A0ALJ95QI2O1Stg4FdLNUxCIF7cns4Fss"
@@ -290,4 +288,4 @@
       "workflow_unique_name": "definition_workflow_018CQIDZOC0887TLtFOEag89ZSoa7f9jHyb"
     }
   ]
-}
+
